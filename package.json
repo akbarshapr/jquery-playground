@@ -1,0 +1,8 @@
+{
+  "name": "jquery-playground",
+  "version": "1.0.0",
+  "description": "A project which includes functionalites made using HTML, CSS and JQuery or Javascript",
+  "main": "index.js",
+  "author": "Akbar Sha",
+  "license": "ISC"
+}
